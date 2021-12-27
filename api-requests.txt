@@ -1,0 +1,44 @@
+https://www.coursera.org/api/courses.v1/GDQMSxDWEeitFhJL4G-A_g?showHidden=true&fields=courseStatus,description,instructorIds,partnerIds,photoUrl,plannedLaunchDate,slug,upcomingSessionStartDate,workload
+
+# Return all coursera courses
+https://www.coursera.org/api/courses.v1?collectionId=08UO2&limit=4000
+
+# Just AXA courses?
+https://www.coursera.org/api/courses.v1/GDQMSxDWEeitFhJL4G-A_g?showHidden=true&fields=courseStatus,description,instructorIds,partnerIds,photoUrl,plannedLaunchDate,slug,upcomingSessionStartDate,workload
+
+# More fields
+https://www.coursera.org/api/courses.v1/GDQMSxDWEeitFhJL4G-A_g?collectionId=08UO2&limit=1&authProvider=axa
+authProvider=axa&collectionId=08UO2&fields=id,courseStatus,instructorIds,partnerIds,upcomingSessionStartDate,workload,categories
+
+# Instructors
+https://www.coursera.org/api/instructors.v1?limit=8000
+
+
+# Partners
+https://www.coursera.org/api/partners.v1
+
+
+# Testing
+https://www.coursera.org/api/courses.v1?limit=1&fields=estimatedClassWorkload
+
+# API Documentation
+https://github.com/yangsu/coursera-api-demo/blob/master/app/data/api.json
+http://adilmoujahid.com/posts/2015/03/coursera-data-mining/
+https://www.algolia.com/doc/api-reference/search-api-parameters/
+
+
+# All products (rating and enrollments info) - has pagination
+https://lua9b20g37-dsn.algolia.net/1/indexes/test_products?x-algolia-application-id=LUA9B20G37&x-algolia-api-key=dcc55281ffd7ba6f24c3a9b18288499b&hitsPerPage=1000&page=1
+
+
+# AXA Program
+
+program = 7KDXEJQUEeeqWw7v8NDIpg
+
+https://www.coursera.org/api/programs.v1/7KDXEJQUEeeqWw7v8NDIpg?limit=1&fields=enrollments
+
+
+https://www.coursera.org/api/programCurriculumProducts.v1?q=selected&programId=7KDXEJQUEeeqWw7v8NDIpg&limit=8&fields=definition,typeName
+
+
+enrollments

@@ -1,0 +1,791 @@
+{
+    "elements": [{
+        "name": "The Chinese University of Hong Kong",
+        "id": "45",
+        "shortName": "cuhk"
+    }, {
+        "name": "Wesleyan University",
+        "id": "34",
+        "shortName": "wesleyan"
+    }, {
+        "name": "Crece con Google",
+        "id": "563",
+        "shortName": "google-es"
+    }, {
+        "name": "Rutgers the State University of New Jersey",
+        "id": "67",
+        "shortName": "rutgers"
+    }, {
+        "name": "University of New Mexico",
+        "id": "120",
+        "shortName": "newmexico"
+    }, {
+        "name": "University of Zurich",
+        "id": "93",
+        "shortName": "zurich"
+    }, {
+        "name": "Koç University",
+        "id": "182",
+        "shortName": "koc"
+    }, {
+        "name": "University of Manchester   ",
+        "id": "147",
+        "shortName": "manchester"
+    }, {
+        "name": "Caltech",
+        "id": "12",
+        "shortName": "caltech"
+    }, {
+        "name": "ESSEC Business School",
+        "id": "223",
+        "shortName": "essec"
+    }, {
+        "name": "École Polytechnique",
+        "id": "66",
+        "shortName": "ep"
+    }, {
+        "name": "The Pennsylvania State University",
+        "id": "51",
+        "shortName": "psu"
+    }, {
+        "name": "University of Nebraska",
+        "id": "124",
+        "shortName": "nebraska"
+    }, {
+        "name": "Johns Hopkins University",
+        "id": "8",
+        "shortName": "jhu"
+    }, {
+        "name": "The World Bank Group",
+        "id": "73",
+        "shortName": "worldbank"
+    }, {
+        "name": "Sberbank Corporate University",
+        "id": "411",
+        "shortName": "sberbank-university"
+    }, {
+        "name": "National Research Tomsk State University",
+        "id": "276",
+        "shortName": "tsu"
+    }, {
+        "name": "Technische Universität München (TUM)",
+        "id": "78",
+        "shortName": "tum"
+    }, {
+        "name": "Copenhagen Business School",
+        "id": "175",
+        "shortName": "cbs"
+    }, {
+        "name": "Peter the Great St. Petersburg Polytechnic University",
+        "id": "313",
+        "shortName": "spbpu"
+    }, {
+        "name": "Yeshiva University",
+        "id": "265",
+        "shortName": "yeshiva"
+    }, {
+        "name": "American Museum of Natural History",
+        "id": "100",
+        "shortName": "amnh"
+    }, {
+        "name": "Emory University",
+        "id": "23",
+        "shortName": "emory"
+    }, {
+        "name": "Tecnológico de Monterrey",
+        "id": "62",
+        "shortName": "tecdemonterrey"
+    }, {
+        "name": "CentraleSupélec",
+        "id": "128",
+        "shortName": "ecp"
+    }, {
+        "name": "Princeton University",
+        "id": "4",
+        "shortName": "princeton"
+    }, {
+        "name": "Nanyang Technological University, Singapore",
+        "id": "121",
+        "shortName": "ntu"
+    }, {
+        "name": "JetBrains",
+        "id": "523",
+        "shortName": "jetbrains"
+    }, {
+        "name": "Intel",
+        "id": "450",
+        "shortName": "intel"
+    }, {
+        "name": "The University of North Carolina at Chapel Hill",
+        "id": "77",
+        "shortName": "unc"
+    }, {
+        "name": "Columbia University",
+        "id": "40",
+        "shortName": "columbia"
+    }, {
+        "name": "Tel Aviv University",
+        "id": "110",
+        "shortName": "telaviv"
+    }, {
+        "name": "H2O",
+        "id": "469",
+        "shortName": "h2o"
+    }, {
+        "name": "deeplearning.ai",
+        "id": "475",
+        "shortName": "deeplearning-ai"
+    }, {
+        "name": "Google AR & VR",
+        "id": "481",
+        "shortName": "googlearvr"
+    }, {
+        "name": "University of Washington",
+        "id": "15",
+        "shortName": "uw"
+    }, {
+        "name": "University of Toronto",
+        "id": "11",
+        "shortName": "utoronto"
+    }, {
+        "name": "Relay Graduate School of Education",
+        "id": "104",
+        "shortName": "relay"
+    }, {
+        "name": "Alberta Machine Intelligence Institute",
+        "id": "556",
+        "shortName": "amii"
+    }, {
+        "name": "Georgia Institute of Technology",
+        "id": "9",
+        "shortName": "gatech"
+    }, {
+        "name": "The University of Melbourne",
+        "id": "33",
+        "shortName": "unimelb"
+    }, {
+        "name": "The State University of New York",
+        "id": "117",
+        "shortName": "suny"
+    }, {
+        "name": "Universidad de los Andes",
+        "id": "273",
+        "shortName": "uniandes"
+    }, {
+        "name": "Universidad de Chile",
+        "id": "280",
+        "shortName": "uchile"
+    }, {
+        "name": "Arizona State University",
+        "id": "287",
+        "shortName": "asu"
+    }, {
+        "name": "Yad Vashem ",
+        "id": "262",
+        "shortName": "yadvashem"
+    }, {
+        "name": "Autodesk",
+        "id": "470",
+        "shortName": "autodesk"
+    }, {
+        "name": "University of California, Santa Cruz",
+        "id": "56",
+        "shortName": "ucsc"
+    }, {
+        "name": "PwC",
+        "id": "329",
+        "shortName": "pwc"
+    }, {
+        "name": "Universitat de Barcelona",
+        "id": "212",
+        "shortName": "ub"
+    }, {
+        "name": "Peking University",
+        "id": "163",
+        "shortName": "pku"
+    }, {
+        "name": "University of London",
+        "id": "26",
+        "shortName": "london"
+    }, {
+        "name": "Fundação Lemann",
+        "id": "224",
+        "shortName": "lemann"
+    }, {
+        "name": "Erasmus University Rotterdam",
+        "id": "244",
+        "shortName": "erasmus"
+    }, {
+        "name": "University of Minnesota",
+        "id": "50",
+        "shortName": "minnesota"
+    }, {
+        "name": "MongoDB Inc.",
+        "id": "460",
+        "shortName": "mongodb"
+    }, {
+        "name": "University System of Georgia",
+        "id": "123",
+        "shortName": "usg"
+    }, {
+        "name": "Vanderbilt University",
+        "id": "37",
+        "shortName": "vanderbilt"
+    }, {
+        "name": "Case Western Reserve University",
+        "id": "68",
+        "shortName": "casewesternreserve"
+    }, {
+        "name": "SDA Bocconi School of Management",
+        "id": "242",
+        "shortName": "sdabocconi"
+    }, {
+        "name": "IE Business School",
+        "id": "61",
+        "shortName": "ie"
+    }, {
+        "name": "The Museum of Modern Art",
+        "id": "107",
+        "shortName": "moma"
+    }, {
+        "name": "Cisco",
+        "id": "336",
+        "shortName": "cisco"
+    }, {
+        "name": "Rice University",
+        "id": "13",
+        "shortName": "rice"
+    }, {
+        "name": "Palo Alto Networks",
+        "id": "509",
+        "shortName": "palo-alto-networks"
+    }, {
+        "name": "University of Cape Town",
+        "id": "255",
+        "shortName": "uct"
+    }, {
+        "name": "Eindhoven University of Technology",
+        "id": "177",
+        "shortName": "tue"
+    }, {
+        "name": "Hebrew University of Jerusalem",
+        "id": "24",
+        "shortName": "huji"
+    }, {
+        "name": "EIT Digital ",
+        "id": "253",
+        "shortName": "eitdigital"
+    }, {
+        "name": "LearnQuest",
+        "id": "527",
+        "shortName": "learnquest"
+    }, {
+        "name": "University of Leeds",
+        "id": "459",
+        "shortName": "leeds"
+    }, {
+        "name": "UNSW Sydney (The University of New South Wales)",
+        "id": "155",
+        "shortName": "unsw"
+    }, {
+        "name": "University of California, Davis",
+        "id": "83",
+        "shortName": "ucdavis"
+    }, {
+        "name": "The Hong Kong University of Science and Technology",
+        "id": "35",
+        "shortName": "hkust"
+    }, {
+        "name": "University of Science and Technology of China",
+        "id": "233",
+        "shortName": "ustc"
+    }, {
+        "name": "École Polytechnique Fédérale de Lausanne",
+        "id": "16",
+        "shortName": "epfl"
+    }, {
+        "name": "Curtis Institute of Music",
+        "id": "79",
+        "shortName": "curtis"
+    }, {
+        "name": "Universidad Austral",
+        "id": "350",
+        "shortName": "austral"
+    }, {
+        "name": "New Teacher Center",
+        "id": "103",
+        "shortName": "ntc"
+    }, {
+        "name": "INSEAD",
+        "id": "72",
+        "shortName": "insead"
+    }, {
+        "name": "VMware",
+        "id": "500",
+        "shortName": "vmware"
+    }, {
+        "name": "Lund University",
+        "id": "199",
+        "shortName": "lunduniversity"
+    }, {
+        "name": "University of Lausanne",
+        "id": "159",
+        "shortName": "unil"
+    }, {
+        "name": "California Institute of the Arts",
+        "id": "59",
+        "shortName": "calarts"
+    }, {
+        "name": "Google - Spectrum Sharing",
+        "id": "550",
+        "shortName": "google-cbrs"
+    }, {
+        "name": "National Research Nuclear University MEPhI",
+        "id": "281",
+        "shortName": "mephi"
+    }, {
+        "name": "Berklee College of Music",
+        "id": "21",
+        "shortName": "berklee"
+    }, {
+        "name": "West Virginia University",
+        "id": "116",
+        "shortName": "wvu"
+    }, {
+        "name": "The Linux Foundation",
+        "id": "498",
+        "shortName": "linuxfoundation"
+    }, {
+        "name": "The University of Tokyo",
+        "id": "76",
+        "shortName": "utokyo"
+    }, {
+        "name": "Michigan State University",
+        "id": "228",
+        "shortName": "michstate"
+    }, {
+        "name": "Utrecht University",
+        "id": "270",
+        "shortName": "utrecht"
+    }, {
+        "name": "Northwestern University",
+        "id": "54",
+        "shortName": "northwestern"
+    }, {
+        "name": "ConsenSys Academy",
+        "id": "511",
+        "shortName": "consensys"
+    }, {
+        "name": "University of North Texas",
+        "id": "559",
+        "shortName": "unt"
+    }, {
+        "name": "Fudan University",
+        "id": "188",
+        "shortName": "fudan"
+    }, {
+        "name": "McMaster University",
+        "id": "148",
+        "shortName": "mcmaster"
+    }, {
+        "name": "University of Kentucky",
+        "id": "127",
+        "shortName": "uk"
+    }, {
+        "name": "Cloudera",
+        "id": "487",
+        "shortName": "cloudera"
+    }, {
+        "name": "Cresça com o Google",
+        "id": "561",
+        "shortName": "google-pt"
+    }, {
+        "name": "University of Colorado Boulder",
+        "id": "71",
+        "shortName": "boulder"
+    }, {
+        "name": "Technical University of Denmark (DTU)",
+        "id": "57",
+        "shortName": "dtu"
+    }, {
+        "name": "Exploratorium",
+        "id": "108",
+        "shortName": "exploratorium"
+    }, {
+        "name": "University of Maryland, College Park",
+        "id": "32",
+        "shortName": "umd"
+    }, {
+        "name": "(ISC)²",
+        "id": "472",
+        "shortName": "isc2"
+    }, {
+        "name": "Institut Mines-Télécom",
+        "id": "297",
+        "shortName": "imt"
+    }, {
+        "name": "Universitat Autònoma de Barcelona",
+        "id": "80",
+        "shortName": "uab"
+    }, {
+        "name": "Imperial College London",
+        "id": "434",
+        "shortName": "imperial"
+    }, {
+        "name": "Commonwealth Education Trust",
+        "id": "106",
+        "shortName": "cet1886"
+    }, {
+        "name": "Xi'an Jiaotong University",
+        "id": "234",
+        "shortName": "xjtu"
+    }, {
+        "name": "Instituto Tecnológico de Aeronáutica",
+        "id": "252",
+        "shortName": "ita"
+    }, {
+        "name": "University of Geneva",
+        "id": "49",
+        "shortName": "unige"
+    }, {
+        "name": "University of Pennsylvania",
+        "id": "6",
+        "shortName": "penn"
+    }, {
+        "name": "University of Colorado System",
+        "id": "126",
+        "shortName": "cusystem"
+    }, {
+        "name": "University of Pittsburgh",
+        "id": "36",
+        "shortName": "pitt"
+    }, {
+        "name": "Stanford University",
+        "id": "1",
+        "shortName": "stanford"
+    }, {
+        "name": "IBM",
+        "id": "348",
+        "shortName": "ibm"
+    }, {
+        "name": "emlyon business school",
+        "id": "286",
+        "shortName": "emlyon"
+    }, {
+        "name": "Goldman Sachs",
+        "id": "289",
+        "shortName": "goldmansachs"
+    }, {
+        "name": "University of Illinois at Urbana-Champaign",
+        "id": "17",
+        "shortName": "illinois"
+    }, {
+        "name": "Universidade de São Paulo",
+        "id": "221",
+        "shortName": "usp"
+    }, {
+        "name": "Universiteit Leiden",
+        "id": "25",
+        "shortName": "leiden"
+    }, {
+        "name": "University of Rochester",
+        "id": "60",
+        "shortName": "rochester"
+    }, {
+        "name": "MathWorks",
+        "id": "554",
+        "shortName": "mathworks"
+    }, {
+        "name": "Universidade Estadual de Campinas",
+        "id": "208",
+        "shortName": "unicamp"
+    }, {
+        "name": "The University of Edinburgh",
+        "id": "14",
+        "shortName": "edinburgh"
+    }, {
+        "name": "National University of Singapore",
+        "id": "47",
+        "shortName": "nus"
+    }, {
+        "name": "Nanjing University",
+        "id": "230",
+        "shortName": "nanjing"
+    }, {
+        "name": "New York University Tandon School of Engineering",
+        "id": "309",
+        "shortName": "nyu"
+    }, {
+        "name": "The University of Chicago",
+        "id": "102",
+        "shortName": "chicago"
+    }, {
+        "name": "University of Florida",
+        "id": "31",
+        "shortName": "ufl"
+    }, {
+        "name": "Google",
+        "id": "463",
+        "shortName": "google"
+    }, {
+        "name": "Carnegie Mellon University",
+        "id": "151",
+        "shortName": "cmu"
+    }, {
+        "name": "Pontificia Universidad Católica de Chile",
+        "id": "190",
+        "shortName": "ucchile"
+    }, {
+        "name": "Politecnico di Milano",
+        "id": "405",
+        "shortName": "polimi"
+    }, {
+        "name": "Universidad Nacional Autónoma de México",
+        "id": "58",
+        "shortName": "unam"
+    }, {
+        "name": "C3.ai",
+        "id": "483",
+        "shortName": "c3"
+    }, {
+        "name": "The University of Sydney",
+        "id": "264",
+        "shortName": "sydney"
+    }, {
+        "name": "Ludwig-Maximilians-Universität München (LMU)",
+        "id": "64",
+        "shortName": "lmu"
+    }, {
+        "name": "Association of International Certified Professional Accountants",
+        "id": "546",
+        "shortName": "aicpa"
+    }, {
+        "name": "University of California San Diego",
+        "id": "53",
+        "shortName": "ucsd"
+    }, {
+        "name": "Tsinghua University",
+        "id": "528",
+        "shortName": "tsinghua"
+    }, {
+        "name": "National Taiwan University",
+        "id": "75",
+        "shortName": "taiwan"
+    }, {
+        "name": "New York Institute of Finance",
+        "id": "499",
+        "shortName": "nyif"
+    }, {
+        "name": "Northeastern University ",
+        "id": "517",
+        "shortName": "northeastern"
+    }, {
+        "name": "Novosibirsk State University ",
+        "id": "275",
+        "shortName": "nsu"
+    }, {
+        "name": "Fundação Instituto de Administração",
+        "id": "376",
+        "shortName": "fia"
+    }, {
+        "name": "University of Western Australia",
+        "id": "156",
+        "shortName": "uwa"
+    }, {
+        "name": "Yale University",
+        "id": "109",
+        "shortName": "yale"
+    }, {
+        "name": "Korea Advanced Institute of Science and Technology(KAIST)",
+        "id": "178",
+        "shortName": "kaist"
+    }, {
+        "name": "Pohang University of Science and Technology",
+        "id": "430",
+        "shortName": "postech"
+    }, {
+        "name": "Icahn School of Medicine at Mount Sinai",
+        "id": "27",
+        "shortName": "ismms"
+    }, {
+        "name": "Sciences Po",
+        "id": "210",
+        "shortName": "sciencespo"
+    }, {
+        "name": "Brightline Initiative",
+        "id": "514",
+        "shortName": "brightline"
+    }, {
+        "name": "École des Ponts ParisTech",
+        "id": "271",
+        "shortName": "enpc"
+    }, {
+        "name": "ESADE Business and Law School",
+        "id": "282",
+        "shortName": "esade"
+    }, {
+        "name": "Insper",
+        "id": "277",
+        "shortName": "insper"
+    }, {
+        "name": "Amazon Web Services",
+        "id": "338",
+        "shortName": "aws"
+    }, {
+        "name": "Unity",
+        "id": "482",
+        "shortName": "unity"
+    }, {
+        "name": "National Research University Higher School of Economics",
+        "id": "160",
+        "shortName": "hse"
+    }, {
+        "name": "BCG",
+        "id": "345",
+        "shortName": "bcg"
+    }, {
+        "name": "Google Cloud",
+        "id": "443",
+        "shortName": "googlecloud"
+    }, {
+        "name": "The University of Hong Kong",
+        "id": "235",
+        "shortName": "hku"
+    }, {
+        "name": "SAS",
+        "id": "520",
+        "shortName": "sas"
+    }, {
+        "name": "University of Virginia",
+        "id": "18",
+        "shortName": "uva"
+    }, {
+        "name": "National Geographic Society",
+        "id": "154",
+        "shortName": "natgeo"
+    }, {
+        "name": "Indian School of Business",
+        "id": "215",
+        "shortName": "isb"
+    }, {
+        "name": "Yonsei University",
+        "id": "220",
+        "shortName": "yonsei"
+    }, {
+        "name": "University of California, Irvine",
+        "id": "30",
+        "shortName": "uci"
+    }, {
+        "name": "Duke University",
+        "id": "7",
+        "shortName": "duke"
+    }, {
+        "name": "EIT RawMaterials",
+        "id": "535",
+        "shortName": "eit-rawmaterials"
+    }, {
+        "name": "The George Washington University",
+        "id": "331",
+        "shortName": "gwu"
+    }, {
+        "name": "École normale supérieure",
+        "id": "130",
+        "shortName": "ens"
+    }, {
+        "name": "Saint Petersburg State University",
+        "id": "179",
+        "shortName": "spbu"
+    }, {
+        "name": "University of Arizona",
+        "id": "222",
+        "shortName": "arizona"
+    }, {
+        "name": "High Tech High Graduate School of Education",
+        "id": "251",
+        "shortName": "hightechhigh"
+    }, {
+        "name": "Atlassian",
+        "id": "457",
+        "shortName": "atlassian"
+    }, {
+        "name": "ESCP Europe",
+        "id": "207",
+        "shortName": "escpeurope"
+    }, {
+        "name": "Technion - Israel Institute of Technology",
+        "id": "129",
+        "shortName": "technion"
+    }, {
+        "name": "HubSpot Academy",
+        "id": "485",
+        "shortName": "hubspot-academy"
+    }, {
+        "name": "Match Teacher Residency",
+        "id": "105",
+        "shortName": "mtr"
+    }, {
+        "name": "University of Glasgow ",
+        "id": "555",
+        "shortName": "glasgow"
+    }, {
+        "name": "Yandex",
+        "id": "468",
+        "shortName": "yandex"
+    }, {
+        "name": "University of Copenhagen",
+        "id": "63",
+        "shortName": "ucph"
+    }, {
+        "name": "Macquarie University",
+        "id": "254",
+        "shortName": "macquarie"
+    }, {
+        "name": "Shanghai Jiao Tong University",
+        "id": "150",
+        "shortName": "sjtu"
+    }, {
+        "name": "University of Michigan",
+        "id": "3",
+        "shortName": "umich"
+    }, {
+        "name": "Sapienza University of Rome",
+        "id": "74",
+        "shortName": "sapienza"
+    }, {
+        "name": "IESE Business School",
+        "id": "172",
+        "shortName": "iese"
+    }, {
+        "name": "University of Amsterdam",
+        "id": "131",
+        "shortName": "amsterdam"
+    }, {
+        "name": "University of Houston System",
+        "id": "119",
+        "shortName": "uhs"
+    }, {
+        "name": "HEC Paris",
+        "id": "161",
+        "shortName": "hec"
+    }, {
+        "name": "Università Bocconi",
+        "id": "157",
+        "shortName": "bocconi"
+    }, {
+        "name": "University of Alberta",
+        "id": "146",
+        "shortName": "ualberta"
+    }, {
+        "name": "Moscow Institute of Physics and Technology",
+        "id": "176",
+        "shortName": "mipt"
+    }, {
+        "name": "Moscow State Institute of International Relations (MGIMO)",
+        "id": "312",
+        "shortName": "mgimo"
+    }],
+    "paging": {
+        "total": 196
+    },
+    "linked": {}
+}

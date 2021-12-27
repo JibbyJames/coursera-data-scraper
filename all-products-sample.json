@@ -1,0 +1,40 @@
+{
+    "hits": [{
+        "avgLearningHours": 11,
+        "tagline": "Offered by University of Pennsylvania",
+        "name": "People Analytics",
+        "partnerLogos": ["https://coursera-university-assets.s3.amazonaws.com/5e/4003d6fe94ae4089d5daf13129a515/penn-logo.png"],
+        "productDifficultyLevel": "Mixed",
+        "entityTypeDescription": "Courses",
+        "enrollments": 70105,
+        "partners": ["University of Pennsylvania"],
+        "entityType": "COURSE",
+        "numProductRatings": 3245,
+        "curriculumIds": ["Lkx_0BRvEeeaVhIRGMuHig", "Z-VMC2NgEeewPw6djR1nUA", "-sNFqlrTEeeTeAr9iW9M2g", "8OBETnbKEeewsApWmvHs-g", "VTTsHVwgEeeIbgpQI8uVNg", "zH9PjlLQEee58w7rQCOdKA", "mss2WWgvEeejWhLHSiZ5mg", "js4S7VKEEeeMvg5ar5SL2g", "ewIxr0C8Eeeg0w4_8dc94g", "0gvQiedIEea48woL4zKG8g", "7ihBgEEaEeehbBL2hMMihA", "hAHr21eDEee6qQqBMVBD7A", "5vKIv1whEeecGw6DlAQipg", "-NaL_GW3EeelTwpY32FYJg", "GtXQIlGQEee9wA5ej6kreg", "5JFxHVqAEee5wQ7j9EvtOA", "9RZs2IGfEeeOJw7guDw1CA", "sd69pECcEeeEYA5lFDhLpA", "BYkmGHKUEee6Ig6Jlqu9Gg", "aaCo9Vw4EeetZA4XlCbtog", "pZ61CVwgEeekQRI-62xDTg", "X2ZhHudKEea48woL4zKG8g", "OzJWaA5wEeeyohKvtXSqlA", "JMPMlFwgEeekQRI-62xDTg", "WZ7c2V_8EeeA3hIDaEgDfA", "8qYG2GY7Eeea3BJbX7SWNA", "O3uu8UnhEeeQFwr9mVPmXA", "2Bzj02W0EeeXGg7HOTLaJg", "0s-g0mY9Eeez8w7Ic1HFhA", "EdfjfleEEeeeZRLpsN6lWg", "LAoZQHINEeehCApmqhkfgg", "0yFfR2u9Eee1nA6Kf0k0FA", "4yjmEwgAEeexThIe8R92Pg", "YHbqD12XEeetZA4XlCbtog", "Bpopy5QVEeejcg7RdS8-hg", "uKat-jUBEeeP2w7r0ovG7A", "96SRyoGfEeeOJw7guDw1CA", "FReuWGWXEeetJxIpa7SjuA", "s3df4FxVEeetZA4XlCbtog", "rpDbhlwfEeeIbgpQI8uVNg", "UWgjJGWzEeelTwpY32FYJg", "bje1kleuEeeMcBK5zxSd1g", "FGouT24ZEeeMZxL7uS0W3g", "DpAYH1whEeekQRI-62xDTg", "pFjU7_kAEeaGRRJxP5bYEg", "2uP0z2Y9Eeea3BJbX7SWNA", "aLHZYe5XEeabagoSt-65MA"],
+        "avgProductRating": 4.516486902927581,
+        "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/9f/139e404cdb11e5bb11bbbec9ff99cd/coursera_people_analytics_8x8.png",
+        "objectUrl": "/learn/wharton-people-analytics",
+        "objectID": "course~yKb2o0ehEeWk9g4dP2hYVQ",
+        "_snippetResult": {
+            "description": {
+                "value": "People analytics is a data-driven approach to managing people at work. For the first time in history, business leaders",
+                "matchLevel": "none"
+            }
+        },
+        "_highlightResult": {
+            "name": {
+                "value": "People Analytics",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        }
+    }],
+    "nbHits": 4159,
+    "page": 420,
+    "nbPages": 4159,
+    "hitsPerPage": 1,
+    "processingTimeMS": 1,
+    "exhaustiveNbHits": true,
+    "query": "",
+    "params": "x-algolia-application-id=LUA9B20G37&x-algolia-api-key=dcc55281ffd7ba6f24c3a9b18288499b&hitsPerPage=1&page=420"
+}
